@@ -1,0 +1,14 @@
+{"1.1.0",
+[{<<"eresp">>,
+  {git,"https://github.com/nilium/eresp",
+       {ref,"95ca031881d1332d6c9369119b92e7a01e394660"}},
+  0},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.9">>},1},
+ {<<"lager">>,{pkg,<<"lager">>,<<"3.6.6">>},0},
+ {<<"ranch">>,{pkg,<<"ranch">>,<<"1.6.2">>},0}]}.
+[
+{pkg_hash,[
+ {<<"goldrush">>, <<"F06E5D5F1277DA5C413E84D5A2924174182FB108DABB39D5EC548B27424CD106">>},
+ {<<"lager">>, <<"23C8F5ABC4189F46804791E16BF6421C14EBC5B529DC113BC54639C6C62F255D">>},
+ {<<"ranch">>, <<"6DB93C78F411EE033DBB18BA8234C5574883ACB9A75AF0FB90A9B82EA46AFA00">>}]}
+].
